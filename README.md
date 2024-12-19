@@ -1,4 +1,12 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SXFmqb3g)
 # Projekt: Hotel Buchungsoberfläche
+Team: Tamar, Magdalena, David
+
+---
+# Für das Review:
+Das Dokument befindet sich im Projektordner und heißt "Paperprototyp_Farbe". Der Link für die Clickable Version mit Marvel findet sich hier:
+
+https://marvelapp.com/prototype/1ba45g79/screen/95801092
 
 ---
 ## Kontext und Einordnung
